@@ -1,4 +1,4 @@
-import './global.css';
+import '../dist/output.css';
 
 import App from './App.svelte';
 
