@@ -1,9 +1,13 @@
 <script>
 	import StoryBubble from '$lib/StoryBubble.svelte';
+
+	function addChild() {
+
+	}
 </script>
 
 <svelte:head>
-	<title>story editor</title>
+	<title>editor</title>
 </svelte:head>
 
 <section>
