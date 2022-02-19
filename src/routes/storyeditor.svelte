@@ -15,8 +15,11 @@
     <div class="rounded-lg border-emerald-300 border-solid">
       test entry
 		</div>
-
 	</h1>
 
-	<StoryBubble />
+  <div class="grid grid-cols-3 gap-4">
+    <div>
+      <StoryBubble />
+    </div>
+  </div>
 </section>
